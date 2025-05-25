@@ -55,8 +55,8 @@ Open the `index.html` file in your web browser.
 
 ##  Demo Video
 
-Watch the demo video here:  
-[landing-page Demo Video](https://github.com/chellapurleenasri/landing-page/raw/refs/heads/main/demo.mp4)
+Demo Video
+Watch the demo video here: landing-page demo.mp4
 
 ## Contact
 
