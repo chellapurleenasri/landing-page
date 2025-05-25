@@ -53,10 +53,14 @@ cd landing-page
 
 Open the `index.html` file in your web browser.
 
-##  Demo Video
+---
 
-Demo Video
-Watch the demo video here: landing-page demo.mp4
+## Demo Video
+
+Watch the demo video here: [landing-page demo.mp4](https://github.com/chellapurleenasri/landing-page/raw/refs/heads/main/landingpage%20demo.mp4)
+
+---
+
 
 ## Contact
 
