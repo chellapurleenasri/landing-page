@@ -25,7 +25,7 @@ This repository contains the solution for Task 1: Landing Page of my Web Develop
 - HTML5 – Structure and content
 - CSS3 – Styling, layout, responsiveness
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 
@@ -53,7 +53,7 @@ cd landing-page
 
 Open the `index.html` file in your web browser.
 
-## 🎬 Demo Video
+##  Demo Video
 
 Watch the demo video here:
 [Demo Video on GitHub](https://github.com/chellapurleenasri/landing-page/raw/main/demo.mp4)
@@ -62,6 +62,3 @@ Watch the demo video here:
 
 * GitHub: [https://github.com/chellapurleenasri](https://github.com/chellapurleenasri)
 * LinkedIn: [https://www.linkedin.com/in/chellapur-leena-sri-b76322364](https://www.linkedin.com/in/chellapur-leena-sri-b76322364)
-
-```
-
